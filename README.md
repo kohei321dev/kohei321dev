@@ -3,7 +3,6 @@
 個人で小さなアプリや開発支援ツールを作りながら、実装・設計・運用で学んだことを技術ブログ 321dev に残しています。
 
 - スケボー歴9年 / IT歴5年
-- 関心: 個人開発、技術ブログ、AIコーディング、AIDD、ハーネスエンジニアリング、開発ワークフロー、AWS、CI/CD、運用改善
 - 大事にしていること: 作った理由、詰まった点、判断理由をあとから追える形で残すこと
 
 ## Background
@@ -12,14 +11,11 @@
 - 2021-03頃: `skatespotsearch` を作成し、IT職への転職活動を進める。
 - 2021-05-15 - 2023-03-31: 監視運用保守から2次運用業務を担当。
 - 2023-04-01 - 現在: Pythonを使った業務アプリケーションの保守・開発を担当。
-- これから: 個人開発と技術ブログを軸に、AIDDやハーネスエンジニアリングを実践しながら整理していきます。
 
 ## Links
 
 - GitHub: https://github.com/kohei321dev
 - 技術ブログ: https://blog.321dev.org/
-
-情報発信は技術ブログに集約しています。作業頻度やリポジトリの内容は、このGitHubのcontributionsとrepositoriesを見てもらう形にしています。
 
 ## Public Works
 
@@ -41,10 +37,10 @@
 - [awstidy](https://github.com/kohei321dev/awstidy): AWSリソースを整理・把握するためのCLI実験
 - [S3-Bucket-Size-Analyzer](https://github.com/kohei321dev/S3-Bucket-Size-Analyzer): S3 bucket sizeを確認するためのPythonツール
 
-## Current Focus
+## Interests / Next
 
 - 個人開発アプリの制作と改善
 - 技術ブログと連動したサンプル実装の整理
-- AIを使った調査、実装、レビュー、handoffの進め方の検証
 - AIDDとハーネスエンジニアリングの実践パターン整理
+- AIを使った調査、実装、レビュー、handoffの進め方の検証
 - AWS、CI/CD、ログ、運用改善まわりの実践メモ化
