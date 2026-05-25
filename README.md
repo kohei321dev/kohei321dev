@@ -1,6 +1,6 @@
-# 個人開発と技術ブログ
+# kohei321dev
 
-個人で小さなアプリや開発支援ツールを作りながら、実装・設計・運用で学んだことを技術ブログに残しています。
+個人で小さなアプリや開発支援ツールを作りながら、実装・設計・運用で学んだことを技術ブログ 321dev に残しています。
 
 - スケボー歴9年 / IT歴5年
 - 関心: 個人開発、技術ブログ、AIコーディング、AIDD、ハーネスエンジニアリング、開発ワークフロー、AWS、CI/CD、運用改善
@@ -8,7 +8,7 @@
 
 ## Output
 
-- GitHub: https://github.com/uechikohei
+- GitHub: https://github.com/kohei321dev
 - 技術ブログ: https://blog.321dev.org/
 - Zenn: 準備中
 - Qiita: 準備中
@@ -16,12 +16,12 @@
 
 ## Public Works
 
-- [scene-builder](https://github.com/uechikohei/scene-builder): シーンベースで英語文を組み立てる練習アプリ
-- [persona-skills-core](https://github.com/uechikohei/persona-skills-core): Persona Skillsの公開用コアライブラリ
-- [agent-config-core](https://github.com/uechikohei/agent-config-core): Codex / Claude Code向けの共通ルール
-- [starship-github-identity](https://github.com/uechikohei/starship-github-identity): GitHub repoごとのユーザー情報をpromptに出すStarship用スクリプト
-- [awstidy](https://github.com/uechikohei/awstidy): AWSリソースを整理・把握するためのCLI実験
-- [S3-Bucket-Size-Analyzer](https://github.com/uechikohei/S3-Bucket-Size-Analyzer): S3 bucket sizeを確認するためのPythonツール
+- [scene-builder](https://github.com/kohei321dev/scene-builder): シーンベースで英語文を組み立てる練習アプリ
+- [persona-skills-core](https://github.com/kohei321dev/persona-skills-core): Persona Skillsの公開用コアライブラリ
+- [agent-config-core](https://github.com/kohei321dev/agent-config-core): Codex / Claude Code向けの共通ルール
+- [starship-github-identity](https://github.com/kohei321dev/starship-github-identity): GitHub repoごとのユーザー情報をpromptに出すStarship用スクリプト
+- [awstidy](https://github.com/kohei321dev/awstidy): AWSリソースを整理・把握するためのCLI実験
+- [S3-Bucket-Size-Analyzer](https://github.com/kohei321dev/S3-Bucket-Size-Analyzer): S3 bucket sizeを確認するためのPythonツール
 
 ## Current Focus
 
