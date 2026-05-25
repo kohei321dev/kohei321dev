@@ -17,7 +17,7 @@
 - GitHub: https://github.com/kohei321dev
 - 技術ブログ: https://blog.321dev.org/
 
-## Public Works
+## Projects
 
 ### Apps
 
